@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/register.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/purchase.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/selectstock.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/User.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/service/UserService.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/Admin.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/service/UserServiceImpl.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/selectmanager.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/watchlist.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/manager.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/purchasestock.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/user.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/index.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/addstock.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/signin.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/StockApiBean1.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/StockApiBean.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/DBConn.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/addstock.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/web/updatepage.xhtml</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/dao/UserDaoImpl.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/dao/UserDao.java</file>
+            <file>file:/Users/harshinijayakumar/Library/git/SEassignment/SEassignment/SEassignment/termproject/src/java/com/beans/Purchase.java</file>
+        </group>
+    </open-files>
+</project-private>
